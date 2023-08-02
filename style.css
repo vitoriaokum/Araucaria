@@ -1,0 +1,17 @@
+@import url(style/headers.css);
+
+
+:root {
+    --cor-de-fundo: #ffffff;
+    --branco: #ffffff;
+    --preto: #000000;
+    --verde-musgo: #5D7743;
+    --fonte-principal: "Montserrat";
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
+ }
